@@ -1,0 +1,50 @@
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+
+<body>
+    <div class="bg_section">
+        <h1 class="mnheading">Travel Benefits</h1>
+        <p class="mnparagraph">We are self-service analytics softwares that lets you create
+        visually appealing data visualization and insightfully dashboards
+        in minutes</p>
+        <div class="list_container">
+            <div class="card">
+                <img class="image_content"
+                src="https://assets.ccbp.in/frontend/intermediate-rwd/cheap-than-other-img.png"/>
+                <h1 class="list_heading">Cheap Than Other</h1>
+                <p class="list_paragraph">Tavels is cheaper than other travel agency </p>
+            </div>
+            <div class="card">
+                <img class="image_content"
+                src="https://assets.ccbp.in/frontend/intermediate-rwd/secure-payment-img.png"/>
+                <h1 class="list_heading">Secure Payment</h1>
+                <p class="list_paragraph">You can pay for your book without 
+                a doubt again</p>
+            </div>
+            <div class="card">
+                <img class="image_content"
+                src="https://assets.ccbp.in/frontend/intermediate-rwd/best-offers-img.png"/>
+                <h1 class="list_heading">Best Offers</h1>
+                <p class="list_paragraph">Inform you about all best offers for all destination </p>
+            </div>
+            <div class="card">
+                <img class="image_content"
+                src="https://assets.ccbp.in/frontend/intermediate-rwd/free-amenities-img.png"/>
+                <h1 class="list_heading">Free Aenities</h1>
+                <p class="list_paragraph">We gurantee you can give free amenities 
+                whereever you are.</p>
+            </div>
+            <div class="card">
+                <img class="image_content"
+                src="https://assets.ccbp.in/frontend/intermediate-rwd/top-rated-img.png"/>
+                <h1 class="list_heading">Top Rated</h1>
+                <p class="list_paragraph">Only show the best destination with 1000+ superb reviews from another user </p>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
